@@ -1,1 +1,1 @@
-# primeiro-repertorio-github
+# primeiro-repositorio-github
